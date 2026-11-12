@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: book
+title: "BLACK OCTOBER 2026: The Month That Tested Global Cybersecurity"
+version: "2.1"
+abstract: >-
+  An in-depth investigation into critical vulnerabilities, zero-day exploitation,
+  global cyberattacks, data breaches, software supply-chain compromises and
+  emerging cybersecurity threats during 1–31 October 2026.
+authors:
+  - family-names: "DRACXX"
+    alias: "DR13X"
+    website: "https://github.com/DR13X"
+date-released: "2026-11"
+url: "https://github.com/DR13X/Black_october_2026"
+repository-code: "https://github.com/DR13X/Black_october_2026"
+keywords:
+  - cybersecurity
+  - vulnerability research
+  - zero-day
+  - Patch Tuesday
+  - supply chain security
+  - incident analysis
+  - October 2026
+license: "LicenseRef-DRACXX-AllRightsReserved"
